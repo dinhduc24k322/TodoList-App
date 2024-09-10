@@ -21,7 +21,13 @@ This project is a simple Todo List application built using React. Users can add 
 
    ```bash
    git clone https://github.com/yourusername/todo-list-app.git
+2. Navigate to the project directory:
+   ```bash
    cd todo-list-app
+3. Install the required dependencies:
+   ```bash
    npm install
+4. Install the required dependencies:
+   ```bash
    npm start
 
